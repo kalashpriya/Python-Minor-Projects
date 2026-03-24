@@ -48,3 +48,13 @@ To perform another operation press 1 or press 0 to exit.
 0
 
 Exiting the calculator. Thank you!
+
+Enter number of rows: 5
+# *2) Patterns*
+1) Square
+2) Triangle
+3) Inverted Triangle
+4) Right Aligned Triangle
+5) Left Aligned Triangle
+6) Hollow Square
+7) Hollow Triangle
